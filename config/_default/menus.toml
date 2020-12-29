@@ -23,13 +23,15 @@
   url = "publication"
   weight = 50
   
+  #Software and Educational Tutorials
 [[main]]
-  name = "Software and Educational Tutorials"
+  name = "Tutorials"
   url = "tutorials"
   weight = 30
   
+  #Students and Research
 [[main]]
-  name = "Student Resources"
+  name = "Resources"
   url = "students"
   weight = 30
   
