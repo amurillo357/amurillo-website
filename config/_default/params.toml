@@ -13,8 +13,8 @@
 #   Guide to color themes: https://wowchemy.com/docs/customization/#color-themes
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/themes/
 #   Browse user installed themes in `data/themes/`
-#theme = "minimal" ## DEFAULT
-theme = "minimal"
+theme = "minimal" ## DEFAULT
+#theme = "ocean"
 
 # Enable users to switch between day and night mode?
 day_night = false
@@ -23,8 +23,8 @@ day_night = false
 #   Guide to font sets: https://wowchemy.com/docs/customization/#fonts
 #   Browse the latest built-in font sets at https://github.com/wowchemy/wowchemy-hugo-modules/tree/master/wowchemy/data/fonts
 #   Browse user installed font sets in `data/fonts/`
-#font = "native" ##DEFAULT
-font = "rose"
+font = "native" ##DEFAULT
+#font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -99,14 +99,14 @@ address = {street = "121 South Main Street, Box G-S121-7", city = "Providence", 
 coordinates = {latitude = "41.82417", longitude = "-71.40704"}
 
 # Directions for visitors to locate you.
-#directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-#office_hours = ["9:00 to 17:00 Monday to Friday"]
+office_hours = ["9:00 to 17:00 Monday to Friday"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-#appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -134,12 +134,12 @@ twitter = ""
 
 # Date and time format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-#date_format = "Jan 2, 2006"
+date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-#time_format = "3:04 PM"
+time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-#address_format = "en-us"
+address_format = "en-us"
 
 ############################
 ## Advanced
