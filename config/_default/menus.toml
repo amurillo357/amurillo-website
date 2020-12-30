@@ -32,7 +32,7 @@
   #Students and Research
 [[main]]
   name = "Resources"
-  url = "students"
+  url = "resources"
   weight = 50
   
 [[main]]
