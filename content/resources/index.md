@@ -3,6 +3,7 @@ title: Resources
 ---
 
 Conferences
+
 ENAR Spring Meetings: https://enar.org/meetings/spring2020/
 
 Women in Statistics and Data Science: https://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx
