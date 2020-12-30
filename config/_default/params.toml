@@ -28,7 +28,7 @@ font = "rose"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "S"
+font_size = "L"
 
 ############################
 ## Basic Info
@@ -38,8 +38,8 @@ font_size = "S"
 #   Improve how search engines understand your site.
 #   For personal sites, choose "Person".
 #   For organizations and projects, choose from https://schema.org/Organization#subtypes
-#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
-site_type = "Organization"
+#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization #Organization Default
+site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
