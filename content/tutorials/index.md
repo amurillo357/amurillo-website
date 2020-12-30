@@ -4,17 +4,18 @@ subtitle: R Programming Modules
 ---
 
 
+1. Getting Started - Installing R and Brief Intro to R software
 
-1. Item Obtain and work with Data.
+2. Item Obtain and work with Data.
 
-2. Clean and Transform data into usable dataframes.
+3. Clean and Transform data into usable dataframes.
 
-3. Create Graphics.
+4. Create Graphics.
 
-4. Understand the writing and use of functions.
+5. Understand the writing and use of functions.
 
-5. Working with larger dataframes efficiently.
+6. Working with larger dataframes efficiently.
 
-6. Data visualization.
+7. Data visualization.
 
-7. Basic statistical analyses
+8. Basic statistical analyses
