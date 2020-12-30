@@ -3,18 +3,24 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: blank  # See https://wowchemy.com/docs/page-builder/
+widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Welcome!"
 subtitle: "About Me."
 hero_media: amurillo.jpg
+image_size: cover
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-advanced:
-  css_style:
-  css_class:
+  font_size_min: 0.7
+  font_size_max: 2.0
+# advanced:
+#  css_style:
+#  css_class:
+background:
+  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size: cover
 ---
 
 I am an Assistant Professor and Senior Biostatistician at Brown University affiliated with the Department of Pediatrics, Warren Alpert Medical School, and Center for Statistical Sciences, School of Public Health. 
