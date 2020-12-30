@@ -1,5 +1,7 @@
 ---
 title: Spatial Multi-Level Risk Factor Analysis to Predict Asthma Morbidity in Multiethnic Cohort of Urban Children
+share: false
+author: false
 ---
 
 <!--more-->
