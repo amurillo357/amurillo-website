@@ -1,5 +1,7 @@
 ---
 title: Resources 
+subtitle: Here are a few links on conferences and professioncal/career resources 
+share: false
 ---
 
 Conferences
