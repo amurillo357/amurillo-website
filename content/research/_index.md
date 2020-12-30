@@ -8,9 +8,9 @@ title: Research
 view: 3
 
 # Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+#header:
+#  caption: ""
+#  image: ""
 ---
 
 Dr. Murillo's methodological interests are in the intersection of statistical inference, mathematical modeling, and simulation studies for the prediction of health outcomes in the context of health policy and interventions. At Brown, she is involved with leading the design, conduct and analysis of clinical and translational research (CTR) at the Advance-CTR, Hasbro Children’s Hospital, and Women & Infants Hospital. Her research interests are in statistical applications in obesity, diabetes, cardiovascular disease, physical activity, eating behaviors, asthma and health disparities. She collaborates broadly on other topics in infectious diseases and epidemiology both at the within-host (genetic) and population levels. 
