@@ -1,6 +1,7 @@
 ---
 title: Tutorials 
 subtitle: R Programming Modules
+share: false
 ---
 
 
