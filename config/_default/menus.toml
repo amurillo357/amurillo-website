@@ -35,10 +35,10 @@
   url = "resources"
   weight = 50
   
-[[main]]
-  name = "News"
-  url = "post"
-  weight = 60
+#[[main]]
+#  name = "News"
+#  url = "post"
+#  weight = 60
 
 [[main]]
   name = "Contact"
